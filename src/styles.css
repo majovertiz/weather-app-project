@@ -29,6 +29,10 @@ img {
   width: 50px;
 }
 
+footer {
+  text-align: center;
+}
+
 .main-container {
   margin: 20px auto;
   padding: 15px;
